@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "328550124051",
+    "project_id": "encryption-and-decryptio-8bcb2",
+    "storage_bucket": "encryption-and-decryptio-8bcb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328550124051:android:d4561635126ea9c019cde6",
+        "android_client_info": {
+          "package_name": "com.example.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328550124051-r1sojemrl3g6s5iriu98uhisj3s4llij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgznsoRxOo9qfXza0p13_-kRm0ZH_CYII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328550124051-r1sojemrl3g6s5iriu98uhisj3s4llij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
